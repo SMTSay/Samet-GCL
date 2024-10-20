@@ -1,0 +1,2 @@
+# Samet-GCL
+Projeler Ödevler
