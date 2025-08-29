@@ -1,2 +1,3 @@
 # Samet-GCL
-Projeler Ödevler
+Hi there, I'm Samet 👋
+Here I share my academic projects and experiments
